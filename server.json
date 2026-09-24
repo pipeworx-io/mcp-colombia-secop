@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/colombia-secop",
   "title": "Colombia Secop",
   "description": "Colombia SECOP MCP — Colombian government procurement (public contracting).",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/colombia-secop",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-colombia-secop",
