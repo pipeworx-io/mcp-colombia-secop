@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-colombia-secop",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Colombia SECOP MCP — Colombian government procurement (public contracting).",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "colombia-secop",
     "gatewaySlug": "colombia-secop",
-    "sourceHash": "v1-78545a85798d1263fa88bdc171c6824829709a1afeab1ab3c95f9c33da441b44",
-    "sourceCommit": "4277282d72f9bf55e548b3799aaf737baf22152f"
+    "sourceHash": "v1-1584fce90404e79ef374f435e332054cf1b06160d69911bbe485af25b0661a9e",
+    "sourceCommit": "8cc978183948532674e797c429305c9d8ab2a1c3"
   }
 }
